@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Antonio Míguez Delgado 👋
 
-<!--
-**Tonimgz/ToniMgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre mí
+- **Estudiante de 1º de DAW** (Desarrollo de Aplicaciones Web).
+- **Técnico en SMR** (Sistemas Microinformáticos y Redes).
+- **+21 años de experiencia laboral** aportando madurez, responsabilidad y capacidad de gestión de equipos.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías y habilidades
+- **Sistemas:** Administración de Windows, montaje de equipos y redes.
+- **Programación:** Aprendiendo Java, SQL y dando mis primeros pasos en PHP.
+- **Habilidades:** Trato al cliente, elaboración de presupuestos técnicos y liderazgo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Mi objetivo
+Actualmente busco mi primera oportunidad profesional en el sector IT para aplicar mis conocimientos técnicos y mi veteranía laboral en un entorno real.
+
+---
+📫 **Contacto:** tonimd3@gmail.com
+🔗 **LinkedIn:** https://www.linkedin.com/in/tonimiguez/
